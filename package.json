@@ -1,6 +1,7 @@
 {
   "name": "anubis",
   "version": "0.0.0",
+  "license": "MIT",
   "description": "Native WebGL Engine",
   "scripts": {
     "dev": "vite",
