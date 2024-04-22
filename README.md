@@ -1,8 +1,6 @@
 ## Anubis - Native WebGL Engine
 
-Anubis is an attempt at building a _Native WebGL Engine_.
-
-The purpose of this is to have a path to follow and learn more about native WebGL through the exercice of building a custom engine to render WebGL on the web.
+Anubis is an attempt at building a _Native WebGL Engine_. The purpose of this is to have a path to follow and learn more about native WebGL through the exercice of building a custom engine to render WebGL on the web.
 
 ### Getting Started
 
