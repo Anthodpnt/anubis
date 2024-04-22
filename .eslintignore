@@ -1,0 +1,8 @@
+# Configuration
+.eslintrc.js
+
+# Node Modules
+node_modules/
+
+# HTML
+index.html

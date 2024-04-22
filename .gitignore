@@ -1,0 +1,5 @@
+# Junk Files
+.DS_Store
+
+# Node Modules
+node_modules/
